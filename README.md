@@ -14,5 +14,5 @@ You'll also learn how to:
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
 ## 
-⭐  https://jankitydv.com
+⭐  https://ankitydv.com
 Become a Software Engineer. Guaranteed.
